@@ -15,6 +15,18 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Óscar Andrés Martín Moreno',
+        cargo: 'Experto Temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
+        nombre: 'John Alexander García Ángel',
+        cargo: 'Experto Temático',
+        centro:
+          'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+      },
+      {
         nombre: 'Fabian Andrés Gómez Pico',
         cargo: 'Experto Temático 3D',
         centro:
@@ -33,9 +45,9 @@ export default {
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
       },
       {
-        nombre: 'Luz Aída Quintero ',
+        nombre: 'Paula Andrea Taborda Ortiz',
         cargo: 'Diseñador Instruccional',
-        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Oscar Absalón Guevara',
@@ -79,19 +91,31 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción Audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Gilberto Junior Rodriguez Rodriguez',
         cargo: 'Producción Audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nelson Vera Briceño',
+        nombre: 'María Carolina Tamayo López',
         cargo: 'Producción Audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'María Isabel Román Rueda',
+        nombre: 'Andrés Felipe Herrera Roldan',
+        cargo: 'Producción Audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

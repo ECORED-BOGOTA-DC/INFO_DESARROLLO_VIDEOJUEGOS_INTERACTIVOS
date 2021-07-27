@@ -23,7 +23,7 @@ section
                 p.banner-principal__datos__item__texto 3120 horas lectivas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 21 meses
+                p.banner-principal__datos__item__texto 27 meses
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
@@ -53,7 +53,7 @@ section
     .titulo__template--a.mb-4
       span.h4 1. Presentación
 
-    p En este programa se aprenderá a desarrollar videojuegos y entornos interactivos, partiendo desde cero, pasando por las fases de preproducción, producción y posproducción. Comenzando por la historia y tipos de videojuegos, para poder desarrollar la idea base, elaborar el guion narrativo, guion técnico, storyboard y definir las mecánicas y niveles del juego. 
+    p En este programa se aprenderá a desarrollar videojuegos y entornos interactivos, partiendo desde cero, pasando por las fases de preproducción, producción y posproducción. Comenzando por la historia y tipos de videojuegos, para poder desarrollar la idea base, elaborar el guión narrativo, guión técnico, storyboard y definir las mecánicas y niveles del juego. 
       br
       br
       | Posterior a ello se conocerán los conceptos básicos de artes para afianzar las bases creativas y comenzar a diseñar todo el arte conceptual, el proceso de creación de personajes, objetos y el entorno. Utilizando software libre como Blender para el modelado 3D, texturizado, rigging y animación, elementos que después serán integrados en Unity 3D, para la programación del videojuego donde se crearán los diferentes niveles y escenarios. 
@@ -72,7 +72,7 @@ section
     .titulo__template--a.mb-4
       span.h4 2. Justificación<br>del programa
 
-    p En el ámbito internacional, existen estudios que revelan que el déficit de la formación del recurso humano, es una de las principales barreras identificadas para el crecimiento de un sector competitivo en los países en desarrollo. Respecto a esto, en muchas naciones existe una carencia importante de profesionales en desarrollo de videojuegos y especialistas de áreas afines a las Tecnologías de la Información y la Comunicación (TIC) El problema principal en estos países, lo que podría aplicarse también para Colombia, es que la demanda potencial de la industria supera la oferta local de mano de obra calificada, a un ritmo que puede retrasar su crecimiento, especialmente hacia los mercados externos.
+    p En el ámbito internacional, existen estudios que revelan que el déficit de la formación del recurso humano, es una de las principales barreras identificadas para el crecimiento de un sector competitivo en los países en desarrollo. Respecto a esto, en muchas naciones existe una carencia importante de profesionales en desarrollo de videojuegos y especialistas de áreas afines a las Tecnologías de la Información y la Comunicación (TIC). El problema principal en estos países, lo que podría aplicarse también para Colombia, es que la demanda potencial de la industria supera la oferta local de mano de obra calificada, a un ritmo que puede retrasar su crecimiento, especialmente hacia los mercados externos.
       br
       br
       | Dadas las proyecciones, después de 2016 el problema de la escasez de talento de TI crece exponencialmente y no puede resolverse fácilmente. Por lo tanto, desde la visión del programa de formación se pretende resolver esta problemática.
@@ -81,7 +81,7 @@ section
       | Lo anterior, demuestra claramente la necesidad existente y futura de formación de personal en tecnologías relacionadas con el sector de las TIC, las cuales han sido identificadas hacia la programación de videojuegos, gestión y manipulación de contenidos digitales sobre redes y plataformas digitales, fijas, móviles y convergentes, SCRUM, así como reforzar conocimiento en áreas como administración de proyectos y habilidades en analíticas, fortaleciendo las habilidades blandas en áreas como el arte y diseño, contenidos 2D/3D, la comunicación, trabajo en equipo, interacción con clientes, inglés y negocios.
       br
       br
-      | El SENA ofrece el programa de formación tecnólogo en Desarrollo de Videojuegos y Entornos Interactivos con todos los elementos de formación profesionales, sociales, tecnológicos y culturales, aportando como elementos diferenciadores de valor agregado metodologías de aprendizaje innovadoras, el acceso a tecnologías de última generación y una estructuración sobre métodos más que contenidos, lo que potencia la formación de ciudadanos librepensadores, con capacidad crítica, solidaria y emprendedora.
+      | El SENA ofrece el programa de formación tecnólogo en desarrollo de videojuegos y entornos interactivos con todos los elementos de formación profesionales, sociales, tecnológicos y culturales, aportando como elementos diferenciadores de valor agregado metodologías de aprendizaje innovadoras, el acceso a tecnologías de última generación y una estructuración sobre métodos más que contenidos, lo que potencia la formación de ciudadanos librepensadores, con capacidad crítica, solidaria y emprendedora.
 
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5(data-aos="fade-up")
