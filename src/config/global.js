@@ -39,6 +39,11 @@ export default {
           'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
       },
       {
+        nombre: 'Luz Aída Quintero Velasquez',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
         nombre: 'Álvaro Cortés Téllez',
         cargo: 'Experto Temático Diseño y Desarrollo de Videojuegos',
         centro:
