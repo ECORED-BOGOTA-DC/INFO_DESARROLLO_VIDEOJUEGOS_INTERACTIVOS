@@ -2,4 +2,4 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/DESARROLLO_VIDEOJUEGOS_INTERACTIVOS_INFO/](https://ecored-sena.github.io/DESARROLLO_VIDEOJUEGOS_INTERACTIVOS_INFO/)
+[https://ecored-bogota-dc.github.io/INFO_DESARROLLO_VIDEOJUEGOS_INTERACTIVOS/](https://ecored-bogota-dc.github.io/INFO_DESARROLLO_VIDEOJUEGOS_INTERACTIVOS/)
